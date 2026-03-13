@@ -12,7 +12,7 @@ bot/
   fluxo-blip.json
 
 docs/
-  fluxo-chatbot.png
+  fluxo.png
 
 ## 💬 Funcionalidades
 - Responder perguntas do usuário
