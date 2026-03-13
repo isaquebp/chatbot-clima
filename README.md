@@ -9,7 +9,7 @@ consultas de clima dos usuários.
 
 ## 📁 Estrutura do projeto
 bot/
-  fluxo-blip.json
+  chatbot-clima-blip.json
 
 docs/
   fluxo.png
