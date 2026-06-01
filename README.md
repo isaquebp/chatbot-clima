@@ -6,6 +6,7 @@ consultas de clima dos usuários.
 ## 🚀 Tecnologias
 - Blip Builder
 - JSON
+- API
 
 ## 📁 Estrutura do projeto
 bot/
